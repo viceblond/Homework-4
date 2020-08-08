@@ -1,0 +1,54 @@
+.conditions {
+    text-align: center;
+}
+
+.conditions b {
+    font-size: 30px;
+}
+
+.conditions i {
+    margin-left: -40px;
+}
+
+em{
+    color: red;
+}
+
+fieldset {
+    width: 500px;
+    margin: 0 auto;
+}
+
+input{
+    margin-left: 60px;
+}
+
+label{
+    float: left;
+}
+
+select{
+    margin-left: 95px;
+    width: 177px;
+}
+
+textarea{
+    float: right;
+    margin-right: 143px;
+}
+
+div{
+    font-size: 14px;
+}
+
+button{
+    cursor: pointer;
+    background-color: silver;
+    color: black;
+    margin-left: 688px;
+    border: none;
+    outline: none;
+    width: 180px;
+    height: 35px;
+    text-align: center;
+}
